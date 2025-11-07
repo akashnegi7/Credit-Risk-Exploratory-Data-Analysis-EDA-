@@ -129,11 +129,11 @@ A **grouped boxplot** compares the loan amounts requested by applicants with dif
 ---
 
 ## 🧾 Author
-**Your Name**  
+**Akash Singh Negi**  
 _Data Science & Analytics Enthusiast_  
 
-📧 [your.email@example.com]  
-🔗 [LinkedIn Profile or Portfolio Link]
+📧 akashsinghnegi07012005@gmail.com  
+🔗 https://www.linkedin.com/in/akash-singh-negi/
 
 ---
 
